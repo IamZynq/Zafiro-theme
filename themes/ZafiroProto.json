@@ -4,8 +4,8 @@
 	"name": "ZafiroProto",
 	"type": "dark",
 	"colors": {
-		// Activity Bar.
-		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
+		
+		
 		"activityBar.background": "#28284E",
 		"activityBar.border": "#292952",
 		"activityBar.dropBackground": "#222145",
@@ -15,7 +15,7 @@
 		"activityBarBadge.foreground": "#1E1E3F",
 
 		// Sidebar.
-		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
+		
 		"sideBar.background": "#222244",
 		"sideBar.border": "#25254B",
 		"sideBar.foreground": "#A599E9",
