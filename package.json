@@ -1,0 +1,31 @@
+{
+  "name": "zafiro",
+  "displayName": "Zafiro",
+  "description": "A versatile collection of carefully crafted color themes for Visual Studio Code, designed for a clean, comfortable, and customizable coding experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.137.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ZafiroDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZafiroDark.json"
+      },
+      {
+        "label": "ZafiroProto",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZafiroProto.json"
+      },
+      {
+        "label": "ZafiroPurple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZafiroPurple.json"
+      }
+    ]
+  }
+}
