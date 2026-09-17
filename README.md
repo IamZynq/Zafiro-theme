@@ -1,4 +1,4 @@
-# [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+# [Zafiro-Theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
 ## [GitHub Repo](https://github.com/IamZynq/Zafiro-theme) 
 
@@ -6,41 +6,12 @@ Atom's iconic One Dark theme, and one of the most installed [themes](https://mar
 
 
 
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/zhuangtongfa.Material-theme) [![Version](https://vsmarketplacebadges.dev/version/zhuangtongfa.Material-theme.png)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) [![Installs](https://vsmarketplacebadges.dev/installs/zhuangtongfa.Material-theme.png)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-
+ [![Version](https://vsmarketplacebadges.dev/version/zhuangtongfa.Material-theme.png)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) 
 
 ## SCREENSHOT
 
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/normal.png)
+![ScreenShot](ZAFIRO-THEME\Images\ZafiroDark.png)
 
-### Italic
-
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/italic.png)
-
-### Default theme
-
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/editor1.png)
-
-### Flat theme
-
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/editorflat.png)
-
-
-
-
-
-
-
-
-
-
-
-## Donation
-
-If you like this extension, you could donate via **[PayPal](https://www.paypal.me/binaryify)** It will encourage me to make this extension better and better!
-
-Thanks List:
-- Andreas Georgiadis
 
 
 ### Setting
@@ -153,6 +124,11 @@ You could set this in your setting.json to make code be italic
 
 [more info](https://binaryify.github.io/OneDark-Pro)
 
+## Donation
+
+If you like this extension, you could donate 
+
+
 ## Python & Pylance users
 Python users I recommend using [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) extension for fast, feature-rich language support.
 
@@ -207,23 +183,15 @@ Please check the official documentation,
 
 ## CHANGELOG
 
-[CHANGELOG.MD](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md)
+[CHANGELOG.MD](https://github.com/IamZynq/Zafiro-theme/blob/main/CHANGELOG.md)
 
 ## DOCS & CONTRIBUTE
 
-This document
-([https://binaryify.github.io/OneDark-Pro/](https://binaryify.github.io/OneDark-Pro/))
-includes instructions on how to install and edit the theme.
+
 
 To help with documentation, first fork and clone this repository.
 
-`cd` to the `OneDark-Pro` folder
-
-Run `npm install`
-
-Then run
-`npm run docs` to serve the documentation
-locally at `localhost:3000`.
+`cd` to the `ZAFIRO-THEME` folder
 
 
 
@@ -232,9 +200,4 @@ locally at `localhost:3000`.
 
 
 
-### Sponsors
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-<a href="https://opencollective.com/onedark-pro#sponsor" target="_blank">
-<img src="https://opencollective.com/onedark-pro/sponsor.svg?width=890">
-</a>
