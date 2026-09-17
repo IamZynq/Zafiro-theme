@@ -37,9 +37,9 @@ JetBrains Mono Download: https://www.jetbrains.com/lp/mono
 
 ### code example colors
 
-
-
-
+![ScreenShot](/Images/bash.png)
+![ScreenShot](/Images/css.png)
+![ScreenShot](/Images/html.png)
 ## Donation
 
 If you like this extension, you could donate 
