@@ -6,25 +6,18 @@ A dark color theme for Visual Studio Code with a crimson background and a high-c
 
 
 
- [![Version](https://vsmarketplacebadges.dev/version/zhuangtongfa.Material-theme.png)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) 
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs)
 
 ## SCREENSHOT
 
-![ScreenShot](./images/ZafiroDark.png)
+![ScreenShot](/Images/ZafiroDark.png)
 
 
 
-### Setting
 
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/setting.png)
 
-### Built in themes
 
-![built-in themes](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/built-in-themes.png)
 
-### Notice
-
-Setting only support default theme(One Dark Pro).
 
 ## Markdown preview style
 
