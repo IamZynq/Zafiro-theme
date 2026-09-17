@@ -24,7 +24,7 @@ SafiroProto
 ## Markdown preview style
 
 ![ScreenShot](/Images/Markdown.png)
-I highly recommend installing Color Highlight extension.
+ I highly recommend installing Color Highlight extension.
 
 
 ### Suggest Editor Settings
@@ -35,89 +35,10 @@ I highly recommend installing Color Highlight extension.
 ```
 JetBrains Mono Download: https://www.jetbrains.com/lp/mono
 
-### Tweaks & theming
+### code example colors
 
-If you want to play around with new colors, use the setting
-`workbench.colorCustomizations` to customize the currently selected theme. For
-example, you can add this snippet in your "settings.json" file:
 
-```json
-"workbench.colorCustomizations": {
-  "tab.activeBackground": "#282c34",
-  "activityBar.background": "#282c34",
-  "sideBar.background": "#282c34",
-  "tab.activeBorder": "#d19a66",
-}
-```
 
-or use the setting `editor.tokenColorCustomizations`
-
-```json
-"editor.tokenColorCustomizations": {
-  "[One Dark Pro]": {
-    "textMateRules": [
-      {
-        "scope": ["source.python"],
-        "settings": {
-          "foreground": "#e06c75"
-        }
-      }
-    ]
-  }
-}
-```
-
-#### Italic
-
-You could set this in your setting.json to make code be italic
-
-```json
-"editor.tokenColorCustomizations": {
-    "textMateRules": [
-      {
-        "name": "italic font",
-        "scope": [
-          "comment",
-          "keyword",
-          "storage",
-          "keyword.control",
-          "keyword.control.from",
-          "keyword.control.flow",
-          "keyword.operator.new",
-          "keyword.control.import",
-          "keyword.control.export",
-          "keyword.control.default",
-          "keyword.control.trycatch",
-          "keyword.control.conditional",
-          "storage.type",
-          "storage.type.class",
-          "storage.modifier.tsx",
-          "storage.type.function",
-          "storage.modifier.async",
-          "variable.language",
-          "variable.language.this",
-          "variable.language.super",
-          "meta.class",
-          "meta.var.expr",
-          "constant.language.null",
-          "support.type.primitive",
-          "entity.name.method.js",
-          "entity.other.attribute-name",
-          "punctuation.definition.comment",
-          "text.html.basic entity.other.attribute-name",
-          "tag.decorator.js entity.name.tag.js",
-          "tag.decorator.js punctuation.definition.tag.js",
-          "source.js constant.other.object.key.js string.unquoted.label.js",
-        ],
-        "settings": {
-          "fontStyle": "italic",
-        }
-      },
-    ]
-  }
-```
-
-[more info](https://binaryify.github.io/OneDark-Pro)
 
 ## Donation
 
@@ -127,29 +48,13 @@ If you like this extension, you could donate
 ## Python & Pylance users
 Python users I recommend using [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) extension for fast, feature-rich language support.
 
-Semantic colors can be customized in settings.json by associating the Pylance semantic token types and modifiers with the desired colors.
 
-- Semantic token types
 
-  - class, enum
-  - parameter, variable, property, enumMember
-  - function, member
-  - module
-  - intrinsic
-  - magicFunction (dunder methods)
-  - selfParameter, clsParameter
 
-- Semantic token modifiers
-  - declaration
-  - readonly, static, abstract
-  - async
-  - typeHint, typeHintComment
-  - decorator
-  - builtin
 
 The [scope inspector](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide#scope-inspector) tool allows you to explore what semantic tokens are present in a source file and what theme rules they match to.
 
-Example of customizing semantic colors in settings.json:
+## Example of customizing semantic colors in settings.json:
 
 ```jsonc
 {
