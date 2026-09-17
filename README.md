@@ -25,25 +25,14 @@ Atom's iconic One Dark theme, and one of the most installed [themes](https://mar
 
 ![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/editorflat.png)
 
-### Darker theme
 
-![ScreenShot](./screenshots/editordarker.png)
 
-### Night Flat theme
 
-![ScreenShot](./screenshots/editornightflat.png)
 
-### Retro theme
 
-![ScreenShot](./screenshots/retro.png)
 
-### Gnome theme
 
-![ScreenShot](./screenshots/gnome.png)
 
-### Terminal
-
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/terminal.png) 
 
 
 ## Donation
