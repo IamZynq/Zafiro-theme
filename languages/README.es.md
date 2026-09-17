@@ -7,6 +7,19 @@
 Un tema oscuro para Visual Studio Code con un fondo carmesí y una [paleta](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) de alto contraste para VS Code.
 
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs)
+## Donaciones
+
+Si te gusta **Zafiro Theme** y quieres apoyar su desarrollo, puedes hacer una donación mediante **PayPal** o **Criptomonedas**.
+
+### 💙 PayPal
+
+[![Donar con PayPal](https://img.shields.io/badge/Donar%20con%20PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](TU_ENLACE_DE_PAYPAL)
+
+### ₿ Criptomonedas
+
+[![Donar con Criptomonedas](https://img.shields.io/badge/Donar%20con%20Cripto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](TU_ENLACE_DE_CRIPTO)
+
+Cada donación es muy apreciada y ayuda a mantener y continuar el desarrollo ❤️
 
 ## CAPTURAS DE PANTALLA
 
