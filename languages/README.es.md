@@ -13,7 +13,7 @@ Si te gusta **Zafiro Theme** y quieres apoyar su desarrollo, puedes hacer una do
 
 ### 💙 PayPal
 
-[![Donar con PayPal](https://img.shields.io/badge/Donar%20con%20PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](TU_ENLACE_DE_PAYPAL)
+[![Donar con PayPal](https://img.shields.io/badge/Donar%20con%20PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ABCD1239597)
 
 ### ₿ Criptomonedas
 
