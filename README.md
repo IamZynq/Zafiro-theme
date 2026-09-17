@@ -9,10 +9,12 @@ A dark color theme for Visual Studio Code with a crimson background and a high-c
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs)
 
 ## SCREENSHOT
-
+SafiroDark
 ![ScreenShot](/Images/ZafiroDark.png)
-
-
+SafiroPurple
+![ScreenShot](/Images/ZafiroProto.png)
+SafiroProto
+![ScreenShot](/Images/ZafiroPurple.png)
 
 
 
@@ -21,8 +23,8 @@ A dark color theme for Visual Studio Code with a crimson background and a high-c
 
 ## Markdown preview style
 
-![Markdown](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/markdown.png)
-You can toggle whether to use markdown style in vscode setting (default use)
+![ScreenShot](/Images/Markdown.png)
+I highly recommend installing Color Highlight extension.
 
 
 ### Suggest Editor Settings
