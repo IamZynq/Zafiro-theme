@@ -35,10 +35,13 @@ SafiroProto
 ```
 JetBrains Mono Download: https://www.jetbrains.com/lp/mono
 
-### code example colors
+### Code example colors
+
 
 ![ScreenShot](/Images/bash.png)
+
 ![ScreenShot](/Images/css.png)
+
 ![ScreenShot](/Images/html.png)
 ## Donation
 
@@ -52,7 +55,7 @@ Python users I recommend using [Pylance](https://marketplace.visualstudio.com/it
 
 
 
-The [scope inspector](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide#scope-inspector) tool allows you to explore what semantic tokens are present in a source file and what theme rules they match to.
+The scope inspector tool allows you to explore what semantic tokens are present in a source file and what theme rules they match to.
 
 ## Example of customizing semantic colors in settings.json:
 
