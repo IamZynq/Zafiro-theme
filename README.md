@@ -2,7 +2,7 @@
 
 ## [GitHub Repo](https://github.com/IamZynq/Zafiro-theme) 
 
-Atom's iconic One Dark theme, and one of the most installed [themes](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) for VS Code! 
+A dark color theme for Visual Studio Code with a crimson background and a high-contrast [palette](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) for VS Code! 
 
 
 
@@ -10,7 +10,7 @@ Atom's iconic One Dark theme, and one of the most installed [themes](https://mar
 
 ## SCREENSHOT
 
-![ScreenShot](ZAFIRO-THEME\Images\ZafiroDark.png)
+![ScreenShot](./images/ZafiroDark.png)
 
 
 
