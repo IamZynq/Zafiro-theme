@@ -3,7 +3,7 @@
   "displayName": "Zafiro",
   "description": "A versatile collection of carefully crafted color themes for Visual Studio Code, designed for a clean, comfortable, and customizable coding experience.",
   "version": "0.0.1",
-  "publicher": "zynq",
+  "publisher": "zynq",
   "icon": "icon.ico",
   "engines": {
     "vscode": "^1.137.0"
