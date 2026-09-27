@@ -1,4 +1,4 @@
-# [Zafiro Theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+# [Zafiro Theme](https://marketplace.visualstudio.com/items?itemName=zynq.zafiro)
 
 ## [GitHub Repository](https://github.com/IamZynq/Zafiro-theme)
 
@@ -6,7 +6,7 @@
 
 A dark color theme for Visual Studio Code with a crimson background and a high-contrast [palette](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) for VS Code.
 
-[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs)
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=zynq.zafiro)
 
 
 ### ZafiroDark
