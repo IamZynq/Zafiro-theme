@@ -7,16 +7,7 @@
 A dark color theme for Visual Studio Code with a crimson background and a high-contrast [palette](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) for VS Code.
 
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs)
-## Donations
-If you like **Zafiro Theme** and would like to support its development, you can donate through **PayPal** or **Cryptocurrency**.
 
-### 💙 PayPal
-
-[![Donate with PayPal](https://img.shields.io/badge/Donate%20with%20PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ABCD1239597)
-
-
-Every donation is greatly appreciated and helps support the continued development. ❤️
-## Screenshots
 
 ### ZafiroDark
 
@@ -55,9 +46,7 @@ https://www.jetbrains.com/lp/mono
 
 ![Screenshot](./Images/html.png)
 
-## Donation
 
-If you like this extension, you can support its development with a donation.
 
 ## Python & Pylance Users
 
